@@ -1,0 +1,4 @@
+torch==2.3.1+cu121 --find-links https://download.pytorch.org/whl/cu121
+tqdm
+tiktoken
+datasets
